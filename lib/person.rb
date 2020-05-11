@@ -16,5 +16,4 @@ def Person
 		@job
 	end
 
-
 end
